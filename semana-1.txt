@@ -1,0 +1,5 @@
+ALGORITMO: são sequencia finitas de instruções, utilizadas no desenvolvimentos de softwares.
+INTELIGÊNCIA ARTIFICIAL: ENVOLVE O ARGRUPAMENTO FDE VARIAS TECNOLOGIAS, COMO REDES NEURAIS ARTIFICIAIS,ALGORITMOS, SISTEMAS DE aprendizado, visando simular capacidades humanas ligadas ao aprendizado, solução de problemas, compreensão de lingugem e tomada de decisões. 
+BANCO DE DADOS: 
+MEMÓRIA: 
+SERVIDOR: 
