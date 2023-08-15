@@ -1,5 +1,5 @@
 ALGORITMO: são sequencia finitas de instruções, utilizadas no desenvolvimentos de softwares.
-INTELIGÊNCIA ARTIFICIAL: ENVOLVE O ARGRUPAMENTO FDE VARIAS TECNOLOGIAS, COMO REDES NEURAIS ARTIFICIAIS,ALGORITMOS, SISTEMAS DE aprendizado, visando simular capacidades humanas ligadas ao aprendizado, solução de problemas, compreensão de lingugem e tomada de decisões. 
+INTELIGÊNCIA ARTIFICIAL: envolve o agrupamento de varias tecnologias, como redes neurais artificiais, algoritmos, sistemas de aprendizado, visando simular capacidades humanas ligadas ao aprendizado, solução de problemas, compreensão de lingugem e tomada de decisões. 
 BANCO DE DADOS: 
 MEMÓRIA: 
-SERVIDOR: 
+SERVIDOR: é um programa de computador onde se roda um sistema, com grande capacidade de armazenamento e processamento cujo objetivo é conectar outros computadores através de uma rede.
