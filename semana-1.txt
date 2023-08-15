@@ -1,5 +1,5 @@
 ALGORITMO: são sequencia finitas de instruções, utilizadas no desenvolvimentos de softwares.
 INTELIGÊNCIA ARTIFICIAL: envolve o agrupamento de varias tecnologias, como redes neurais artificiais, algoritmos, sistemas de aprendizado, visando simular capacidades humanas ligadas ao aprendizado, solução de problemas, compreensão de lingugem e tomada de decisões. 
-BANCO DE DADOS: 
-MEMÓRIA: 
+BANCO DE DADOS: São conjunto de arquivos relacionados entre si, podendo conter registros sobre pessoas, lugares ou informações em geral. 
+MEMÓRIA: Serve para o armazenamento de dados de computador, que nada mais é do que uma tecnologia que consiste em componentes de computador e mídia de gravação que são usados para reter dados digitais. 
 SERVIDOR: é um programa de computador onde se roda um sistema, com grande capacidade de armazenamento e processamento cujo objetivo é conectar outros computadores através de uma rede.
