@@ -1,0 +1,13 @@
+a) A LGPD e qualquer tipo de Data Center (instituição que possuem varios computadores para que processem dados) precisam passar por regulamentação;
+A LGPD não tem influencia só em data centers no brasil, ela também engloba data centers estrangeiros se os mesmos englobarem usuarios residentes no Brasil.
+
+b) O que é formato de arquivo de dado?  
+É a forma que o dado será apresentado, como ele será armazenado. Ex: Docx, txt, Gif, Xls
+O que são formatos de arquivo proprietários?
+ABERTO X PROPRIETÁRIO
+O formato proprietários representam a privatização da memória digital, dependem de uma empresa ou organização, são privados 
+b.1) (Ex: flash, docs). 
+O aberto, são públicos e podem ser usados por qualquer um, são aqueles que seguem padrões abertos, cujas especificações são publicadas e podem ser conhecidas por todos. 
+b.1) (Ex: PNG, JPG)
+     
+b.2) 
