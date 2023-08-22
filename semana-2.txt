@@ -1,0 +1,10 @@
+"MPF investiga se algoritimo do INSS nega aposentadorias sem análise de mérito."
+Foi denunciado por um cidadão possíveis irregularidades na negativa de requerimentos de benefícios previdenciários e assistenciais supostamente causada 
+por um sistema automatizado, que não estaria observando o mérito de forma adequada. De acordo com o INSS, cerca de 30% dos pedidos passam pelo sistema informatizado. 
+O sistema foi implementado com o objetivo de diminuir a fila e agilizar as respostas aos beneficiários. 
+
+"Análise de crédito pode usar algoritmos?"
+A análise de créditos utilizava um método rigoroso de estabelecimento de dados muitas vezes limitados, porém, com o emplemento de uma nova técnica 
+conhecida como "machine learning", que utiliza algoritmos sofisticados para discernir padrões em vastos conjuntos de dados. 
+
+"Negativa de créditos precisa ser justificada?"
