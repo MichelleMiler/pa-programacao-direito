@@ -10,4 +10,4 @@ b.1) (Ex: flash, docs).
 O aberto, são públicos e podem ser usados por qualquer um, são aqueles que seguem padrões abertos, cujas especificações são publicadas e podem ser conhecidas por todos. 
 b.1) (Ex: PNG, JPG)
      
-b.2) ababa
+b.2) 
