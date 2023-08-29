@@ -9,4 +9,4 @@ O formato proprietários representam a privatização da memória digital, depen
 b.1) (Ex: flash, docs). 
 O aberto, são públicos e podem ser usados por qualquer um, são aqueles que seguem padrões abertos, cujas especificações são publicadas e podem ser conhecidas por todos. 
 b.1) (Ex: PNG, JPG)     
-b.2) 
+b.2) um dado ser publico implica na maior acessibilidade, principalmente por não estar conectado a nenhum orgão privado, além disso ele é disponibilizado de forma gratuita. 
