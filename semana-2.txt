@@ -8,3 +8,4 @@ A análise de créditos utilizava um método rigoroso de estabelecimento de dado
 conhecida como "machine learning", que utiliza algoritmos sofisticados para discernir padrões em vastos conjuntos de dados. 
 
 "Negativa de créditos precisa ser justificada?"
+As empresas na maioria dos casos não apresentam justificativas ou razões claras para a recusa em conceder o crédito, porém, você tem o direito de saber o motivo da negativa conforme assegura o Código de Defesa do Consumidor.
